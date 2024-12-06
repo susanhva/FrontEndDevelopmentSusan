@@ -39,13 +39,13 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   (https://mydramalist.com/)
   #### Screenshot(s) van de eerste pagina (small screen): 
   My Drama List
-  <img src="readme-images/MD1SS" width="375px" alt="Screen 1 van MDL">
-  <img src="readme-images/MD2SS" width="375px" alt="Screen 2 van MDL">
-  <img src="readme-images/MD3SS" width="375px" alt="Screen 3 van MDL">
-  <img src="readme-images/MD4SS" width="375px" alt="Screen 4 van MDL">
-  <img src="readme-images/MD5SS" width="375px" alt="Screen 5 van MDL">
-  <img src="readme-images/MD6SS" width="375px" alt="Screen 6 van MDL">
-  <img src="readme-images/MD7SS" width="375px" alt="Screen 7 van MDL">
+  <img src="readme-images/MD1SS.png" width="375px" alt="Screen 1 van MDL">
+  <img src="readme-images/MD2SS.png" width="375px" alt="Screen 2 van MDL">
+  <img src="readme-images/MD3SS.png" width="375px" alt="Screen 3 van MDL">
+  <img src="readme-images/MD4SS.png" width="375px" alt="Screen 4 van MDL">
+  <img src="readme-images/MD5SS.png" width="375px" alt="Screen 5 van MDL">
+  <img src="readme-images/MD6SS.png" width="375px" alt="Screen 6 van MDL">
+  <img src="readme-images/MD7SS.png" width="375px" alt="Screen 7 van MDL">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
