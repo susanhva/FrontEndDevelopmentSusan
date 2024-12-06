@@ -19,10 +19,10 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  Susan Chen
 
   #### Je startniveau:
-  hier je startniveau (kies uit zwart, rood óf blauw)
+ Blauw
 
   #### Je focus:
-  hier je focus (kies uit responsive óf surface plane)
+  Surface plane
  
 </details>
 
@@ -36,11 +36,16 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
-
+  (https://mydramalist.com/)
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  My Drama List
+  <img src="readme-images/MD1SS" width="375px" alt="Screen 1 van MDL">
+  <img src="readme-images/MD2SS" width="375px" alt="Screen 2 van MDL">
+  <img src="readme-images/MD3SS" width="375px" alt="Screen 3 van MDL">
+  <img src="readme-images/MD4SS" width="375px" alt="Screen 4 van MDL">
+  <img src="readme-images/MD5SS" width="375px" alt="Screen 5 van MDL">
+  <img src="readme-images/MD6SS" width="375px" alt="Screen 6 van MDL">
+  <img src="readme-images/MD7SS" width="375px" alt="Screen 7 van MDL">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   hier de naam van de pagina  
