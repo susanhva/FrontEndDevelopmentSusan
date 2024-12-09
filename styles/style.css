@@ -28,4 +28,34 @@
 /****************/
 
 /* jouw code */
+section:first-of-type> button {
+	display: inline-block;
+}
+Section {
+	background-color: #eee;
+}
 
+body {
+	background-color: #f0ecec;
+	font-style: arial;
+	font-size: medium;
+}
+
+nav {
+	background-color: #08548c;
+
+}
+
+footer {
+	background-color: #302c3c;
+	
+
+}
+
+h3 {
+	color: #dddde0;
+}
+
+p1 {
+	color: #dddde0;
+}
