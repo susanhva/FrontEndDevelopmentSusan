@@ -22,7 +22,7 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
  Blauw
 
   #### Je focus:
-  Surface plane
+ Responsiveness
  
 </details>
 
@@ -39,17 +39,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   (https://mydramalist.com/)
   #### Screenshot(s) van de eerste pagina (small screen): 
   My Drama List
-  <img src="readme-images/MD1SS.png" width="375px" alt="Screen 1 van MDL">
-  <img src="readme-images/MD2SS.png" width="375px" alt="Screen 2 van MDL">
-  <img src="readme-images/MD3SS.png" width="375px" alt="Screen 3 van MDL">
-  <img src="readme-images/MD4SS.png" width="375px" alt="Screen 4 van MDL">
-  <img src="readme-images/MD5SS.png" width="375px" alt="Screen 5 van MDL">
-  <img src="readme-images/MD6SS.png" width="375px" alt="Screen 6 van MDL">
-  <img src="readme-images/MD7SS.png" width="375px" alt="Screen 7 van MDL">
+  <img src="readme-images/2home.png" width="375px" alt="home pagina van mydramalist">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  MyDramaList Sign up page
+  <img src="readme-images/2signin.png" width="375px" alt="sign in pagina van mydramalist">
  
 </details>
 
@@ -58,10 +52,15 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
-  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+  <summary>uitwerken na test in 2<sup>e</sup> werkgroep, we moesten een toegankelijkheidstest afleggen in de les en hier kwam uit:</summary>
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
+ <ul>
+ Afbeeldingen zijn niet beschrijvend genoeg. 
+ </ul>
+ <ul>Scroll area is niet helemaal duidelijk, zwarte schermen zijn ook helemaal niet van toepassing waardoor de website weg wordt geduwd en veel leegruimtes.</ul>
+ <ul>gebruikt te veel div's en geen list's voor iets wat lists nodig heeft. </ul>
 
 </details>
 
@@ -73,13 +72,11 @@ Nb. Door *open* toe te voegen aan een *details* element kun je deze standaard op
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/fireshot1.png" width="375px" alt="breakdown van de hele pagina">
 
   ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  <img src="readme-images/fireshot2.png" width="375px" alt="breakdown van hamburgermenu">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
